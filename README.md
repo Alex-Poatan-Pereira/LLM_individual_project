@@ -7,7 +7,7 @@
 >
 ### Challenge Files
 ***현재 미구현상태***
-[도전과제링크]()
+[도전과제링크](https://github.com/Alex-Poatan-Pereira/LLM_individual_project/blob/main/challenge.ipynb)
 >
-[프롬프트]()
+[프롬프트](https://github.com/Alex-Poatan-Pereira/LLM_individual_project/tree/main/Prompts)
 
